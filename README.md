@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Murat</h1>
 
-<!--
-**octokki/octokki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m building stuff on ethereum.
+- 🌱 Interested in **DeFi** and **Smart Contracts Security**
+- 📫 **jiromatsumoto98@gmail.com**
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=octokki&label=Views&color=lightgrey&style=flat-square" alt="octokki" /> 
+</p>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=octokki&rank=SECRET,SSS,SS,S,AA,AAA,A&theme=radical&no-bg=true&no-frame=true&column=5" alt="octokki" />
+</p>
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=octokki&theme=blue-green&show_icons=true&count_private=true&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=octokki&layout=compact&langs_count=6&theme=blue-green&hide_border=true" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
+<p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=octokki&theme=blue-green&hide_border=true" alt="octokki" />
+</p>
