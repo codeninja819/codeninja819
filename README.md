@@ -18,3 +18,5 @@
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=octokki&theme=blue-green&hide_border=true" alt="octokki" />
 </p>
+
+![octokki's Streak](https://github-readme-streak-stats.herokuapp.com/?user=octokki&theme=dark&hide_border=false)
