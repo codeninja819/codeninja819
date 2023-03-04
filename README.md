@@ -1,8 +1,8 @@
 ## Hello, codeninja819 here 👋
 
-I'm a full stack blockchain developer interested in particular Open Source, Web Development and Visual Studio Code.
+I'm a full stack blockchain developer interested in particular Open Source, Web Development, Smart Contracts and Visual Studio Code.
 
-You can find on GitHub my contributions to public Javascript/Typescript based projects, but I like C# and Scala too.
+You can find on GitHub my contributions to public Javascript/Typescript based projects, but I like C# and Python too.
 
 Let's stay in touch!
 
