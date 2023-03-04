@@ -1,12 +1,15 @@
-<h1 align="center">Hi there 👋, I'm Jiro</h1>
+## Hello, codeninja819 here 👋
 
-- 🔭 I’m building stuff on ethereum.
-- 🌱 Interested in **DeFi** and **Smart Contracts Security**
-- 📫 **jiromatsumoto98@gmail.com**
+I'm a full stack blockchain developer interested in particular Open Source, Web Development and Visual Studio Code.
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=codeninja819&label=Views&color=lightgrey&style=flat-square" alt="codeninja819" /> 
-</p>
+You can find on GitHub my contributions to public Javascript/Typescript based projects, but I like C# and Scala too.
+
+Let's stay in touch!
+
+<br />
+
+## 📊 Github stats
+
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=codeninja819&rank=SECRET,SSS,SS,S,AA,AAA,A&theme=radical&no-bg=true&no-frame=true&column=5" alt="codeninja819" />
 </p>
@@ -21,3 +24,14 @@
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeninja819&theme=dark&hide_border=true" alt="octokki" />
 </p>
+
+## ⚡ Recent GitHub Activity
+
+<!-- https://github.com/jamesgeorge007/github-activity-readme -->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+<br/>
+
+<br />
+
+![Profile Views](https://komarev.com/ghpvc/?username=codeninja819)
