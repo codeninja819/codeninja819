@@ -14,8 +14,8 @@ Let's stay in touch!
 <img src="https://github-profile-trophy.vercel.app/?username=codeninja819&theme=radical&no-bg=true&no-frame=true&column=5" alt="codeninja819" />
 </p>
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeninja819&theme=dark&show_icons=true&count_private=true&hide_border=true" width="45%" alt="codeninja819" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeninja819&layout=compact&langs_count=6&theme=dark&hide_border=true" width="45%" alt="codeninja819" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeninja819&theme=dark&show_icons=true&count_private=true&hide_border=true" width="60%" alt="codeninja819" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeninja819&layout=compact&langs_count=6&theme=dark&hide_border=true" width="40%" alt="codeninja819" />
 </p>
 
 <p align="center">
