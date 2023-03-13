@@ -1,19 +1,18 @@
-name: Update activity data on README.md
+name: Update README
 
 on:
-  schedule:
-    - cron: '0 0,12,19 * * *'
+  schedule: # 00:00 EST == 05:00 UTC
+    - cron: "0 5 * * *"
   workflow_dispatch:
+  push:
 
 jobs:
-  activity:
+  build:
     runs-on: ubuntu-latest
-    name: Update recent activity
+    name: Update this repo's README with recent activity
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v2
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          MAX_LINES: 8
