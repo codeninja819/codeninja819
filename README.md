@@ -22,9 +22,11 @@ Let's stay in touch!
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeninja819&theme=dark&hide_border=true" alt="codeninja819" />
 </p>
 
+<!-- 
 <p align="center">
 <img src = "profile-3d-contrib/profile-night-rainbow.svg" alt="codeninja819" />
 </p>
+-->
 
 <!-- ## ⚡ Recent GitHub Activity -->
 
