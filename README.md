@@ -11,7 +11,7 @@ Let's stay in touch!
 ## 📊 Github stats
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=codeninja819&theme=radical&no-bg=true&no-frame=true&column=10" alt="codeninja819" />
+<img src="https://github-profile-trophy.vercel.app/?username=codeninja819&theme=radical&no-bg=true&no-frame=true&column=6" alt="codeninja819" />
 </p>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=codeninja819&theme=dark&show_icons=true&count_private=true&hide_border=true" width="59%" alt="codeninja819" />
