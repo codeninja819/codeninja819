@@ -1,10 +1,15 @@
 ## Hello, codeninja819 here 👋
 
-I'm a full stack blockchain developer interested in particular Open Source, Web Development, Smart Contracts and Visual Studio Code.
+I am a full-stack blockchain developer with a great interests in open source, web development, smart contracts, and [Visual Studio Code](https://code.visualstudio.com/).
 
-You can find on GitHub my contributions to public Javascript/Typescript based projects, but I like C# and Python too.
+My most favourite language is [Rust](https://www.rust-lang.org/), and I also enjoy working with [Solidity](https://soliditylang.org/), JavaScript/[TypeScript](https://www.typescriptlang.org/), [C#](https://dotnet.microsoft.com/languages/csharp), [Python](https://www.python.org/), and [Go](https://go.dev/).
 
-Let's stay in touch!
+You can explore my GitHub profile to see my contributions to public projects based in various languages.
+Currently, I am actively learning smart contract auditing with the ambition of becoming a senior auditor.
+
+My ultimate goal is to become a skilled H4XOR in the blockchain space.
+
+Let's stay connected and collaborate on cutting-edge projects together!
 
 <br />
 
