@@ -2,7 +2,7 @@
 
 I am a full-stack blockchain developer with a great interests in open source, web development, smart contracts, and [Visual Studio Code](https://code.visualstudio.com/).
 
-My most favourite language is [Rust](https://www.rust-lang.org/), and I also enjoy working with [Solidity](https://soliditylang.org/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)/[TypeScript](https://www.typescriptlang.org/), [C#](https://dotnet.microsoft.com/languages/csharp), [Python](https://www.python.org/), and [Go](https://go.dev/).
+My most favourite language is [Rust](https://www.rust-lang.org/), and I also enjoy working with [Solidity](https://soliditylang.org/), [Cairo](https://www.cairo-lang.org/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)/[TypeScript](https://www.typescriptlang.org/), [C#](https://dotnet.microsoft.com/languages/csharp), [Python](https://www.python.org/), and [Go](https://go.dev/).
 
 You can explore my GitHub profile to see my contributions to public projects based in various languages.
 Currently, I am actively learning smart contract auditing with the ambition of becoming a senior auditor.
