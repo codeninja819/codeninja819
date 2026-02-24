@@ -16,14 +16,6 @@ Let's stay connected and collaborate on cutting-edge projects together!
 ## 📊 Github stats
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=codeninja819&theme=radical&no-bg=true&no-frame=true&column=6" alt="codeninja819" />
-</p>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=codeninja819&theme=dark&show_icons=true&count_private=true&hide_border=true" width="59%" alt="codeninja819" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codeninja819&layout=compact&langs_count=6&theme=dark&hide_border=true" width="38%" alt="codeninja819" />
-</p>
-
-<p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codeninja819&theme=dark&hide_border=true" alt="codeninja819" />
 </p>
 
